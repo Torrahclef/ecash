@@ -1,0 +1,43 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule    ^login/?$    login.php    [NC,L]   
+RewriteRule    ^signup/?$    signup.php    [NC,L]   
+RewriteRule    ^register/([A-Za-z0-9-]+)/?$    register.php?ref=$1    [NC,L]   
+RewriteRule    ^logout/?$    logout.php    [NC,L]   
+RewriteRule    ^dashboard/?$    dashboard.php    [NC,L]   
+RewriteRule    ^profile/?$    profile.php    [NC,L]   
+
+RewriteRule    ^bank/?$    bankinfo.php    [NC,L]   
+RewriteRule    ^add_news/?$    add_news.php    [NC,L]   
+RewriteRule    ^downline/?$    downline.php    [NC,L]   
+RewriteRule    ^payhistory/?$    payhistory.php    [NC,L]
+RewriteRule    ^verify/?$    verify.php    [NC,L]
+
+RewriteRule    ^transfer/?$    transfer.php    [NC,L]
+
+RewriteRule    ^blog/?$    blog.php    [NC,L]
+
+RewriteRule    ^myblog/?$    my_blog.php    [NC,L]
+RewriteRule    ^blogpay/?$    blogpay.php    [NC,L]
+
+RewriteRule    ^notification/?$    notification.php    [NC,L]
+RewriteRule    ^contact/?$    sendmail.php    [NC,L]
+
+
+
+
+RewriteRule    ^forgotpassword/?$    forgotpassword.php?   [NC,L]   
+  
+RewriteRule    ^TransactionHistory/?$    trxhistory.php    [NC,L]   
+RewriteRule    ^TransactionPIN/?$    trxpin.php    [NC,L]   
+RewriteRule    ^FundTransfer/?$    transferfund.php    [NC,L]   
+RewriteRule    ^WithdrawFund/?$    withdraw.php    [NC,L]   
+RewriteRule    ^AddFund/?$    addfund.php    [NC,L]   
+
+RewriteRule    ^ReferralBonus/?$    increffer.php    [NC,L]   
+RewriteRule    ^BinaryBonus/?$    incbinary.php    [NC,L]   
+
+RewriteRule    ^Tree/?$    tree.php    [NC,L]   
+RewriteRule    ^Tree/([A-Za-z0-9-]+)/?$    tree.php?name=$1    [NC,L]   
+
+RewriteRule    ^withrawmoney/?$    withrawmoney.php    [NC,L]   
