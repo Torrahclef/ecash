@@ -2,7 +2,6 @@
 include 'head.php';
 ?>
 
-
 <body id="page-top">
 
     <!-- Page Wrapper -->
