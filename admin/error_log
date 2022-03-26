@@ -1,0 +1,829 @@
+[27-May-2021 17:12:19 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[27-May-2021 17:12:19 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[27-May-2021 17:12:19 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[27-May-2021 17:12:19 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[27-May-2021 17:12:19 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[28-May-2021 05:13:23 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/users.php on line 40
+[28-May-2021 05:13:23 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[28-May-2021 05:15:59 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/active-users.php on line 40
+[28-May-2021 05:15:59 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[28-May-2021 15:43:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[28-May-2021 15:43:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[28-May-2021 15:43:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[28-May-2021 15:43:07 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[28-May-2021 15:43:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[28-May-2021 15:45:42 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[28-May-2021 15:45:55 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[29-May-2021 08:36:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/payrequest.php on line 39
+[29-May-2021 08:36:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[29-May-2021 09:46:58 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[29-May-2021 09:46:58 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[29-May-2021 09:46:58 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[29-May-2021 09:46:58 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[29-May-2021 09:46:58 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[30-May-2021 11:43:47 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[30-May-2021 11:43:47 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[30-May-2021 11:43:47 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[30-May-2021 11:43:47 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[30-May-2021 11:43:47 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[30-May-2021 11:58:39 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[30-May-2021 11:58:39 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gensettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[30-May-2021 15:22:59 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[30-May-2021 15:22:59 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_emailsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[30-May-2021 15:40:50 America/New_York] PHP Parse error:  syntax error, unexpected 'panel' (T_STRING) in /home/earnccge/public_html/adminify/dashboard.php on line 298
+[30-May-2021 15:40:56 America/New_York] PHP Parse error:  syntax error, unexpected 'panel' (T_STRING) in /home/earnccge/public_html/adminify/dashboard.php on line 298
+[30-May-2021 15:41:05 America/New_York] PHP Parse error:  syntax error, unexpected 'panel' (T_STRING) in /home/earnccge/public_html/adminify/dashboard.php on line 298
+[31-May-2021 03:42:01 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/mpesa.php on line 39
+[31-May-2021 03:42:01 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[31-May-2021 13:04:40 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[31-May-2021 13:04:53 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[03-Jun-2021 08:46:01 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[03-Jun-2021 08:46:25 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[03-Jun-2021 08:46:32 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[03-Jun-2021 08:46:52 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[03-Jun-2021 08:50:25 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[03-Jun-2021 08:58:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[03-Jun-2021 08:58:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[03-Jun-2021 08:58:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[03-Jun-2021 08:58:26 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[03-Jun-2021 08:58:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 116
+[03-Jun-2021 08:59:15 America/New_York] PHP Notice:  Undefined variable: ans in /home/earnccge/public_html/adminify/launchprofile.php on line 117
+[03-Jun-2021 13:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[03-Jun-2021 13:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[03-Jun-2021 13:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[03-Jun-2021 13:30:07 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[03-Jun-2021 13:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[03-Jun-2021 14:18:55 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[03-Jun-2021 14:19:09 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[03-Jun-2021 14:19:13 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[03-Jun-2021 14:19:21 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[03-Jun-2021 15:27:34 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[03-Jun-2021 15:27:34 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[03-Jun-2021 15:27:34 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[03-Jun-2021 15:27:34 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[03-Jun-2021 15:27:34 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[03-Jun-2021 16:02:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[03-Jun-2021 16:02:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[03-Jun-2021 16:02:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[03-Jun-2021 16:02:27 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[03-Jun-2021 16:02:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[04-Jun-2021 03:48:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[04-Jun-2021 03:48:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[04-Jun-2021 03:48:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[04-Jun-2021 03:48:30 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[04-Jun-2021 03:48:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[05-Jun-2021 03:22:54 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/adminify/updateuser.php on line 126
+[05-Jun-2021 03:22:54 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/adminify/updateuser.php on line 126
+[05-Jun-2021 03:22:54 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[05-Jun-2021 03:22:54 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/adminify/updateuser.php on line 188
+[05-Jun-2021 03:22:54 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/adminify/updateuser.php on line 188
+[05-Jun-2021 03:22:54 America/New_York] PHP Notice:  Undefined variable: pckname in /home/earnccge/public_html/adminify/updateuser.php on line 283
+[05-Jun-2021 03:23:12 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/adminify/updateuser.php on line 126
+[05-Jun-2021 03:23:12 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/adminify/updateuser.php on line 126
+[05-Jun-2021 03:23:12 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[05-Jun-2021 03:23:12 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/adminify/updateuser.php on line 188
+[05-Jun-2021 03:23:12 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/adminify/updateuser.php on line 188
+[05-Jun-2021 03:23:12 America/New_York] PHP Notice:  Undefined variable: pckname in /home/earnccge/public_html/adminify/updateuser.php on line 283
+[05-Jun-2021 03:24:16 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[05-Jun-2021 03:24:22 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/adminify/updateuser.php on line 126
+[05-Jun-2021 03:24:22 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/adminify/updateuser.php on line 126
+[05-Jun-2021 03:24:22 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[05-Jun-2021 03:24:22 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/adminify/updateuser.php on line 188
+[05-Jun-2021 03:24:22 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/adminify/updateuser.php on line 188
+[05-Jun-2021 03:24:22 America/New_York] PHP Notice:  Undefined variable: pckname in /home/earnccge/public_html/adminify/updateuser.php on line 283
+[05-Jun-2021 03:24:38 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[05-Jun-2021 03:26:15 America/New_York] PHP Notice:  Undefined index: trx_pin in /home/earnccge/public_html/adminify/updateuser.php on line 157
+[06-Jun-2021 06:52:14 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:52:14 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gensettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[06-Jun-2021 06:52:30 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:52:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gensettings.php on line 9
+[06-Jun-2021 06:55:36 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:55:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gensettings.php on line 9
+[06-Jun-2021 06:55:41 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:55:41 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_emailsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[06-Jun-2021 06:55:47 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:55:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/emailsettings.php on line 9
+[06-Jun-2021 06:56:44 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:56:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/emailsettings.php on line 9
+[06-Jun-2021 06:56:50 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:56:50 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[06-Jun-2021 06:56:57 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:56:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[06-Jun-2021 06:57:44 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[06-Jun-2021 06:57:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[06-Jun-2021 07:01:48 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 03:01:27 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 03:01:27 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 03:01:34 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 03:01:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 03:02:42 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 03:02:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 03:28:18 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 03:28:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 03:29:04 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 03:29:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 04:00:07 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 04:00:07 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 04:00:15 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 04:00:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 04:00:15 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/pacsettings.php on line 43
+[07-Jun-2021 04:00:15 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 04:00:45 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 04:00:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 04:01:13 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 04:01:13 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 04:23:07 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 04:23:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 04:23:17 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 04:23:17 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 04:51:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[07-Jun-2021 04:51:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 04:51:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[07-Jun-2021 04:51:05 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[07-Jun-2021 04:51:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[07-Jun-2021 06:14:51 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[07-Jun-2021 06:14:51 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 06:14:51 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[07-Jun-2021 06:14:51 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[07-Jun-2021 06:14:51 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[07-Jun-2021 06:24:22 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 06:29:11 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 06:39:41 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 06:50:07 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 06:53:55 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 08:23:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[07-Jun-2021 08:23:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 08:23:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[07-Jun-2021 08:23:26 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[07-Jun-2021 08:23:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[07-Jun-2021 08:28:46 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 08:40:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 08:47:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[07-Jun-2021 08:47:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 08:47:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[07-Jun-2021 08:47:26 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[07-Jun-2021 08:47:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[07-Jun-2021 08:57:11 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 08:57:11 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 08:57:18 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 08:57:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 08:57:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/pacsettings.php on line 43
+[07-Jun-2021 08:57:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 08:57:34 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 08:57:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 09:02:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/active-users.php on line 40
+[07-Jun-2021 09:02:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 10:00:44 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/non-active.php on line 40
+[07-Jun-2021 10:00:44 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 10:07:44 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[07-Jun-2021 10:09:28 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:09:28 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 10:09:35 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:09:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 10:09:58 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:09:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 10:15:39 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:15:39 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 10:15:47 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:15:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 10:15:47 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/pacsettings.php on line 43
+[07-Jun-2021 10:15:47 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 10:16:16 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:16:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 10:16:22 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:16:22 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_emailsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 10:16:29 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:16:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/emailsettings.php on line 9
+[07-Jun-2021 10:16:34 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:16:34 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gensettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 10:16:40 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:16:40 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gensettings.php on line 9
+[07-Jun-2021 10:17:20 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 10:17:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gensettings.php on line 9
+[07-Jun-2021 14:57:24 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 14:57:24 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 14:57:34 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 14:57:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 15:02:11 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:02:11 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 15:02:12 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:02:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 15:02:19 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:02:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 15:03:58 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:03:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/pacsettings.php on line 8
+[07-Jun-2021 15:21:32 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:21:32 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gensettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 15:21:38 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:21:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gensettings.php on line 9
+[07-Jun-2021 15:36:44 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[07-Jun-2021 15:36:44 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[07-Jun-2021 15:36:44 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[07-Jun-2021 15:36:44 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[07-Jun-2021 15:36:44 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[07-Jun-2021 15:54:28 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:54:28 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 15:54:31 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 15:55:07 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 15:55:25 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[07-Jun-2021 15:55:37 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[07-Jun-2021 15:55:37 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_pacsettings_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 01:50:35 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/active-users.php on line 40
+[08-Jun-2021 01:50:35 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 01:51:03 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:51:03 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 01:57:48 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:57:48 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 01:57:54 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:57:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 01:58:08 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:58:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 01:58:10 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:58:10 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 01:58:48 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:58:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 01:58:55 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:58:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 01:58:57 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 01:58:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 02:38:08 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 02:38:08 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 02:38:15 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 02:38:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 02:38:22 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 02:38:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 02:38:24 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 02:38:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 02:59:50 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 02:59:50 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 02:59:58 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 02:59:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 02:59:58 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/gen_pin.php on line 43
+[08-Jun-2021 02:59:58 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 03:00:16 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 03:00:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 03:00:22 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 03:00:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 03:00:25 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 03:00:25 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 05:11:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/download.php on line 39
+[08-Jun-2021 05:11:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 05:14:04 America/New_York] PHP Notice:  Undefined variable: errormsg in /home/earnccge/public_html/adminify/download.php on line 127
+[08-Jun-2021 05:14:54 America/New_York] PHP Notice:  Undefined variable: errormsg in /home/earnccge/public_html/adminify/download.php on line 127
+[08-Jun-2021 05:15:47 America/New_York] PHP Notice:  Undefined variable: errormsg in /home/earnccge/public_html/adminify/download.php on line 127
+[08-Jun-2021 05:16:31 America/New_York] PHP Notice:  Undefined variable: errormsg in /home/earnccge/public_html/adminify/download.php on line 127
+[08-Jun-2021 05:18:12 America/New_York] PHP Notice:  Undefined variable: errormsg in /home/earnccge/public_html/adminify/download.php on line 127
+[08-Jun-2021 05:20:54 America/New_York] PHP Notice:  Undefined variable: errormsg in /home/earnccge/public_html/adminify/download.php on line 127
+[08-Jun-2021 05:25:23 America/New_York] PHP Notice:  Undefined variable: bonus in /home/earnccge/public_html/adminify/activateblog.php on line 23
+[08-Jun-2021 05:25:23 America/New_York] PHP Notice:  Undefined variable: bonus in /home/earnccge/public_html/adminify/activateblog.php on line 28
+[08-Jun-2021 05:29:33 America/New_York] PHP Notice:  Undefined variable: bonus in /home/earnccge/public_html/adminify/activateblog.php on line 23
+[08-Jun-2021 05:29:33 America/New_York] PHP Notice:  Undefined variable: bonus in /home/earnccge/public_html/adminify/activateblog.php on line 28
+[08-Jun-2021 05:36:39 America/New_York] PHP Notice:  Undefined variable: bonus in /home/earnccge/public_html/adminify/activateblog.php on line 23
+[08-Jun-2021 05:37:39 America/New_York] PHP Notice:  Undefined variable: bonus in /home/earnccge/public_html/adminify/activateblog.php on line 23
+[08-Jun-2021 07:31:02 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[08-Jun-2021 08:26:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[08-Jun-2021 08:26:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 08:26:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[08-Jun-2021 08:26:00 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[08-Jun-2021 08:26:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[08-Jun-2021 08:53:10 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[08-Jun-2021 08:53:10 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 08:53:10 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[08-Jun-2021 08:53:10 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[08-Jun-2021 08:53:10 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[08-Jun-2021 15:52:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[08-Jun-2021 15:52:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 15:52:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[08-Jun-2021 15:52:38 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[08-Jun-2021 15:52:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[08-Jun-2021 15:53:43 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 15:53:43 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 15:53:51 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 15:53:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 15:53:57 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 15:53:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 15:54:00 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 15:54:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:03:20 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:03:20 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 16:03:26 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:03:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:03:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/gen_pin.php on line 43
+[08-Jun-2021 16:03:26 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 16:03:47 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:03:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:03:53 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:03:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:03:56 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:03:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:16:21 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:16:21 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 16:16:27 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:16:27 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:16:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/gen_pin.php on line 43
+[08-Jun-2021 16:16:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 16:16:42 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:16:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:16:49 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:16:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 16:16:51 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 16:16:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 18:31:32 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:31:32 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 18:31:38 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:31:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 18:31:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/gen_pin.php on line 43
+[08-Jun-2021 18:31:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 18:31:54 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:31:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 18:32:48 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:32:48 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 18:32:53 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:32:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 18:32:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/gen_pin.php on line 43
+[08-Jun-2021 18:32:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 18:33:15 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:33:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 18:33:22 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:33:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 18:33:24 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 18:33:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 19:30:50 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 19:30:50 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[08-Jun-2021 19:30:56 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 19:30:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 19:30:56 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/gen_pin.php on line 43
+[08-Jun-2021 19:30:56 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 19:31:13 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 19:31:13 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 19:31:46 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 19:31:46 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 19:31:49 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[08-Jun-2021 19:31:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[08-Jun-2021 19:55:36 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[08-Jun-2021 19:55:36 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[08-Jun-2021 19:55:36 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[08-Jun-2021 19:55:36 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[08-Jun-2021 19:55:36 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[08-Jun-2021 19:56:22 America/New_York] PHP Notice:  Undefined index: refer in /home/earnccge/public_html/adminify/updateusersettings.php on line 13
+[08-Jun-2021 19:56:22 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[08-Jun-2021 19:56:50 America/New_York] PHP Notice:  Undefined index: refer in /home/earnccge/public_html/adminify/updateusersettings.php on line 13
+[08-Jun-2021 19:56:50 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[08-Jun-2021 19:58:14 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/adminify/updateusersettings.php on line 68
+[09-Jun-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[09-Jun-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[09-Jun-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[09-Jun-2021 00:21:28 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[09-Jun-2021 00:21:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[09-Jun-2021 00:23:21 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:23:21 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[09-Jun-2021 00:23:28 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:23:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:23:36 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:23:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:23:38 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:23:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:28:52 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:28:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:28:58 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:28:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:29:01 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:29:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:31:37 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:31:37 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[09-Jun-2021 00:31:43 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:31:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:31:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/gen_pin.php on line 43
+[09-Jun-2021 00:31:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[09-Jun-2021 00:31:58 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:31:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:32:04 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:32:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 00:32:06 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 00:32:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 01:16:25 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 01:16:25 America/New_York] PHP Notice:  Undefined index: password_protect_https_earnpro_co_ke_adminify_gen_pin_php in /home/earnccge/public_html/adminify/protect.php on line 23
+[09-Jun-2021 01:16:30 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 01:16:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 01:16:37 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 01:16:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 01:16:39 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/adminify/protect.php on line 17
+[09-Jun-2021 01:16:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/earnccge/public_html/adminify/gen_pin.php on line 8
+[09-Jun-2021 01:19:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 41
+[09-Jun-2021 01:19:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/aside.php on line 7
+[09-Jun-2021 01:19:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 77
+[09-Jun-2021 01:19:43 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/adminify/dashboard.php on line 89
+[09-Jun-2021 01:19:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/adminify/dashboard.php on line 98
+[09-Jun-2021 04:43:46 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[09-Jun-2021 04:44:01 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[09-Jun-2021 09:21:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[09-Jun-2021 09:21:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[09-Jun-2021 09:21:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[09-Jun-2021 09:21:37 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[09-Jun-2021 09:21:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[09-Jun-2021 13:03:07 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/attempt/updateuser.php on line 126
+[09-Jun-2021 13:03:07 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/attempt/updateuser.php on line 126
+[09-Jun-2021 13:03:07 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/attempt/updateuser.php on line 188
+[09-Jun-2021 13:03:07 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/attempt/updateuser.php on line 188
+[09-Jun-2021 13:03:07 America/New_York] PHP Notice:  Undefined variable: pckname in /home/earnccge/public_html/attempt/updateuser.php on line 283
+[09-Jun-2021 13:04:31 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[09-Jun-2021 13:04:35 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/attempt/updateuser.php on line 126
+[09-Jun-2021 13:04:35 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/attempt/updateuser.php on line 126
+[09-Jun-2021 13:04:35 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/attempt/updateuser.php on line 188
+[09-Jun-2021 13:04:35 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/attempt/updateuser.php on line 188
+[09-Jun-2021 13:04:35 America/New_York] PHP Notice:  Undefined variable: pckname in /home/earnccge/public_html/attempt/updateuser.php on line 283
+[09-Jun-2021 13:15:42 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/attempt/updateuser.php on line 126
+[09-Jun-2021 13:15:42 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/attempt/updateuser.php on line 126
+[09-Jun-2021 13:15:42 America/New_York] PHP Notice:  Undefined variable: pcktax in /home/earnccge/public_html/attempt/updateuser.php on line 188
+[09-Jun-2021 13:15:42 America/New_York] PHP Notice:  Undefined variable: pckprice in /home/earnccge/public_html/attempt/updateuser.php on line 188
+[09-Jun-2021 13:15:42 America/New_York] PHP Notice:  Undefined variable: pckname in /home/earnccge/public_html/attempt/updateuser.php on line 283
+[09-Jun-2021 13:28:30 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[09-Jun-2021 15:32:05 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 00:38:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[10-Jun-2021 00:38:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 00:38:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[10-Jun-2021 00:38:07 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[10-Jun-2021 00:38:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[10-Jun-2021 00:41:21 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 00:41:37 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 03:08:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/updateuser.php on line 40
+[10-Jun-2021 03:08:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 03:25:12 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 04:06:46 America/New_York] PHP Notice:  Undefined index: refer in /home/earnccge/public_html/attempt/updateusersettings.php on line 13
+[10-Jun-2021 04:06:46 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 04:07:20 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 05:30:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[10-Jun-2021 05:30:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 05:30:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[10-Jun-2021 05:30:17 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[10-Jun-2021 05:30:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[10-Jun-2021 06:30:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[10-Jun-2021 06:30:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 06:30:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[10-Jun-2021 06:30:08 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[10-Jun-2021 06:30:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[10-Jun-2021 06:48:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[10-Jun-2021 06:48:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 06:48:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[10-Jun-2021 06:48:27 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[10-Jun-2021 06:48:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[10-Jun-2021 07:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[10-Jun-2021 07:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 07:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[10-Jun-2021 07:30:07 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[10-Jun-2021 07:30:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[10-Jun-2021 07:34:31 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 09:43:35 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[10-Jun-2021 09:43:35 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 09:43:35 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[10-Jun-2021 09:43:35 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[10-Jun-2021 09:43:35 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[10-Jun-2021 10:37:50 America/New_York] PHP Notice:  Undefined variable: id in /home/earnccge/public_html/attempt/updateblog.php on line 184
+[10-Jun-2021 12:07:55 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 12:15:51 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 14:00:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[10-Jun-2021 14:00:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 14:00:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[10-Jun-2021 14:00:53 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[10-Jun-2021 14:00:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[10-Jun-2021 14:01:52 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 14:02:05 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 14:10:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[10-Jun-2021 15:58:40 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/active-users.php on line 40
+[10-Jun-2021 15:58:40 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[10-Jun-2021 15:59:48 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 01:41:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/active-users.php on line 40
+[11-Jun-2021 01:41:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 01:47:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 01:47:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 01:47:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 01:47:05 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 01:47:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[11-Jun-2021 01:47:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 01:47:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 01:47:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 01:47:43 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 01:47:43 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[11-Jun-2021 03:05:32 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 03:05:32 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 03:05:32 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 03:05:32 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 03:05:32 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[11-Jun-2021 03:07:06 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 03:11:48 America/New_York] PHP Notice:  Undefined variable: id in /home/earnccge/public_html/attempt/updateblog.php on line 184
+[11-Jun-2021 03:32:12 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 03:53:34 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 04:01:45 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 04:03:25 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 04:08:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 04:14:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 04:14:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 04:14:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 04:14:00 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 04:14:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[11-Jun-2021 04:14:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 04:14:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 04:14:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 04:14:07 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 04:14:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[11-Jun-2021 05:27:56 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/users.php on line 40
+[11-Jun-2021 05:27:56 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 05:29:11 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 05:31:16 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 05:33:09 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 05:41:54 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 13:17:39 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 13:17:39 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 13:17:39 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 13:17:39 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 13:17:39 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[11-Jun-2021 14:30:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/active-users.php on line 40
+[11-Jun-2021 14:30:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 14:39:23 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 14:49:03 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[11-Jun-2021 15:30:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 15:30:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 15:30:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 15:30:37 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 15:30:37 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[11-Jun-2021 16:05:21 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[11-Jun-2021 16:05:21 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[11-Jun-2021 16:05:21 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[11-Jun-2021 16:05:21 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[11-Jun-2021 16:05:21 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 00:49:15 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[12-Jun-2021 02:29:01 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 02:29:01 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 02:29:01 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 02:29:01 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 02:29:01 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 02:30:18 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[12-Jun-2021 02:30:18 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[12-Jun-2021 02:30:18 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 02:30:18 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 02:30:30 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[12-Jun-2021 02:30:30 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[12-Jun-2021 02:30:30 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 02:30:30 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 02:30:51 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[12-Jun-2021 02:30:51 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[12-Jun-2021 02:30:51 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 02:30:51 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 02:30:55 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[12-Jun-2021 02:30:55 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[12-Jun-2021 02:30:55 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 02:30:55 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 04:33:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 04:33:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 04:33:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 04:33:29 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 04:33:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 06:10:14 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/active-users.php on line 40
+[12-Jun-2021 06:10:14 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 07:07:15 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 07:07:15 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 07:07:15 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 07:07:15 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 07:07:15 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 07:08:55 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[12-Jun-2021 07:08:55 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[12-Jun-2021 07:08:55 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 07:08:55 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 07:08:59 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[12-Jun-2021 07:08:59 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[12-Jun-2021 07:08:59 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 07:08:59 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[12-Jun-2021 08:34:13 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 08:34:13 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 08:34:13 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 08:34:13 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 08:34:13 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 10:44:03 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 10:44:03 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 10:44:03 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 10:44:03 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 10:44:03 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 11:00:24 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[12-Jun-2021 11:00:39 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: act in /home/earnccge/public_html/attempt/updateusersettings.php on line 4
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/updateusersettings.php on line 5
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: earnings in /home/earnccge/public_html/attempt/updateusersettings.php on line 6
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: fname in /home/earnccge/public_html/attempt/updateusersettings.php on line 7
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/updateusersettings.php on line 8
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: email in /home/earnccge/public_html/attempt/updateusersettings.php on line 10
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: mobile in /home/earnccge/public_html/attempt/updateusersettings.php on line 12
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: refer in /home/earnccge/public_html/attempt/updateusersettings.php on line 13
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: address in /home/earnccge/public_html/attempt/updateusersettings.php on line 14
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: country in /home/earnccge/public_html/attempt/updateusersettings.php on line 15
+[12-Jun-2021 11:23:51 America/New_York] PHP Notice:  Undefined index: package in /home/earnccge/public_html/attempt/updateusersettings.php on line 16
+[12-Jun-2021 11:23:51 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[12-Jun-2021 11:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 11:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 11:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 11:46:27 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 11:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 12:10:12 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[12-Jun-2021 14:23:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 14:23:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 14:23:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 14:23:30 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 14:23:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 15:10:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 15:10:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 15:10:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 15:10:30 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 15:10:30 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 15:10:31 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[12-Jun-2021 15:10:31 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[12-Jun-2021 15:10:31 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[12-Jun-2021 15:10:31 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[12-Jun-2021 15:10:31 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[12-Jun-2021 16:04:23 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/users.php on line 40
+[12-Jun-2021 16:04:23 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 03:14:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/users.php on line 40
+[13-Jun-2021 03:14:53 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 03:17:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[13-Jun-2021 03:17:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 03:17:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[13-Jun-2021 03:17:17 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[13-Jun-2021 03:17:17 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[13-Jun-2021 04:06:40 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/airreq.php on line 39
+[13-Jun-2021 04:06:40 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 05:56:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[13-Jun-2021 05:56:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 05:56:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[13-Jun-2021 05:56:28 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[13-Jun-2021 05:56:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[13-Jun-2021 07:35:07 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[13-Jun-2021 07:35:07 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[13-Jun-2021 07:35:07 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[13-Jun-2021 07:35:07 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[13-Jun-2021 07:35:13 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[13-Jun-2021 07:35:13 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[13-Jun-2021 07:35:13 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[13-Jun-2021 07:35:13 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[13-Jun-2021 07:36:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/mpesa.php on line 39
+[13-Jun-2021 07:36:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 07:40:40 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[13-Jun-2021 07:57:30 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[13-Jun-2021 08:00:34 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[13-Jun-2021 08:00:47 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[13-Jun-2021 10:30:29 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[13-Jun-2021 11:20:33 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/updateuser.php on line 40
+[13-Jun-2021 11:20:33 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 13:11:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[13-Jun-2021 13:11:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[13-Jun-2021 13:11:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[13-Jun-2021 13:11:27 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[13-Jun-2021 13:11:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[14-Jun-2021 03:30:20 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 03:30:42 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 03:39:21 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 03:49:52 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 04:33:41 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/active-users.php on line 40
+[14-Jun-2021 04:33:41 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[14-Jun-2021 04:36:51 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 04:40:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[14-Jun-2021 04:40:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[14-Jun-2021 04:40:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[14-Jun-2021 04:40:29 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[14-Jun-2021 04:40:29 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[14-Jun-2021 05:45:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/updateuser.php on line 40
+[14-Jun-2021 05:45:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[14-Jun-2021 05:46:05 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 05:51:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[14-Jun-2021 05:51:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[14-Jun-2021 05:51:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[14-Jun-2021 05:51:07 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[14-Jun-2021 05:51:07 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[14-Jun-2021 06:01:54 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 06:08:34 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 06:18:16 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 06:28:05 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 06:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[14-Jun-2021 06:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[14-Jun-2021 06:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[14-Jun-2021 06:46:27 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[14-Jun-2021 06:46:27 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[14-Jun-2021 09:49:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[14-Jun-2021 09:49:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[14-Jun-2021 09:49:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[14-Jun-2021 09:49:28 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[14-Jun-2021 09:49:28 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[14-Jun-2021 10:25:00 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[14-Jun-2021 14:25:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[14-Jun-2021 14:25:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[14-Jun-2021 14:25:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[14-Jun-2021 14:25:08 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[14-Jun-2021 14:25:08 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[15-Jun-2021 02:08:43 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[15-Jun-2021 04:22:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[15-Jun-2021 04:22:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[15-Jun-2021 04:22:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[15-Jun-2021 04:22:00 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[15-Jun-2021 04:22:00 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[15-Jun-2021 04:56:55 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/active-users.php on line 40
+[15-Jun-2021 04:56:55 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[15-Jun-2021 06:11:22 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[15-Jun-2021 06:11:22 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[15-Jun-2021 06:11:22 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[15-Jun-2021 06:11:22 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[15-Jun-2021 06:11:22 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[15-Jun-2021 10:57:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[15-Jun-2021 10:57:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[15-Jun-2021 10:57:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[15-Jun-2021 10:57:05 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[15-Jun-2021 10:57:05 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[15-Jun-2021 12:21:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[15-Jun-2021 12:21:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[15-Jun-2021 12:21:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[15-Jun-2021 12:21:24 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[15-Jun-2021 12:21:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[15-Jun-2021 12:35:08 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 6
+[15-Jun-2021 12:35:08 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 7
+[15-Jun-2021 12:35:08 America/New_York] PHP Notice:  Undefined index: username in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[15-Jun-2021 12:35:08 America/New_York] PHP Notice:  Undefined index: password in /home/earnccge/public_html/attempt/loginproc.php on line 20
+[15-Jun-2021 15:54:23 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[15-Jun-2021 19:13:14 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/active-users.php on line 40
+[15-Jun-2021 19:13:14 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[16-Jun-2021 02:15:05 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[16-Jun-2021 02:17:42 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[16-Jun-2021 02:17:42 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[16-Jun-2021 02:17:42 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[16-Jun-2021 02:17:42 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[16-Jun-2021 02:17:42 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[16-Jun-2021 04:00:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[16-Jun-2021 04:00:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[16-Jun-2021 04:00:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[16-Jun-2021 04:00:18 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[16-Jun-2021 04:00:18 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[16-Jun-2021 04:00:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[16-Jun-2021 04:00:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[16-Jun-2021 04:00:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[16-Jun-2021 04:00:24 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[16-Jun-2021 04:00:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[16-Jun-2021 04:09:04 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[16-Jun-2021 04:09:04 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[16-Jun-2021 04:09:04 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[16-Jun-2021 04:09:04 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[16-Jun-2021 04:09:04 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[16-Jun-2021 05:22:40 America/New_York] PHP Notice:  Undefined index: Details in /home/earnccge/public_html/attempt/viewblog.php on line 96
+[16-Jun-2021 10:01:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 41
+[16-Jun-2021 10:01:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/aside.php on line 7
+[16-Jun-2021 10:01:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 77
+[16-Jun-2021 10:01:24 America/New_York] PHP Notice:  Undefined variable: coun in /home/earnccge/public_html/attempt/dashboard.php on line 89
+[16-Jun-2021 10:01:24 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/earnccge/public_html/attempt/dashboard.php on line 98
+[16-Jun-2021 10:33:53 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[16-Jun-2021 12:34:51 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[16-Jun-2021 12:35:01 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[16-Jun-2021 12:35:13 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[16-Jun-2021 12:36:00 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[16-Jun-2021 12:36:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[16-Jun-2021 12:39:40 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/earnccge/public_html/attempt/updateusersettings.php on line 68
+[18-Feb-2022 13:39:33 America/New_York] PHP Notice:  Undefined index: username in /home/extrysdu/public_html/attempt/loginproc.php on line 6
+[18-Feb-2022 13:39:33 America/New_York] PHP Notice:  Undefined index: password in /home/extrysdu/public_html/attempt/loginproc.php on line 7
+[18-Feb-2022 13:39:33 America/New_York] PHP Notice:  Undefined index: username in /home/extrysdu/public_html/attempt/loginproc.php on line 20
+[18-Feb-2022 13:39:33 America/New_York] PHP Notice:  Undefined index: password in /home/extrysdu/public_html/attempt/loginproc.php on line 20
+[18-Feb-2022 13:56:29 America/New_York] PHP Notice:  Undefined index: username in /home/extrysdu/public_html/attempt/loginproc.php on line 6
+[18-Feb-2022 13:56:29 America/New_York] PHP Notice:  Undefined index: password in /home/extrysdu/public_html/attempt/loginproc.php on line 7
+[18-Feb-2022 13:56:29 America/New_York] PHP Notice:  Undefined index: username in /home/extrysdu/public_html/attempt/loginproc.php on line 20
+[18-Feb-2022 13:56:29 America/New_York] PHP Notice:  Undefined index: password in /home/extrysdu/public_html/attempt/loginproc.php on line 20
+[18-Feb-2022 14:36:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/extrysdu/public_html/attempt/gen_pin.php on line 40
+[18-Feb-2022 14:36:38 America/New_York] PHP Notice:  Undefined index: adminidusername in /home/extrysdu/public_html/attempt/aside.php on line 7
